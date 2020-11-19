@@ -1,5 +1,7 @@
 # Hi there 👋
 
+Currently I work as a Java Junior developer at IntegraTI, where I deal with Oracle Database technologies, development and maintenance of Api in Spring Boot and JSP. Wordpress, Node, Laravel and GitHub (and other things), and musician in his spare time.
+
 <!--
 **KleberMeira/KleberMeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
