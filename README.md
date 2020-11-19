@@ -2,7 +2,6 @@
 
 Currently I work as a Java Junior developer at IntegraTI, where I deal with Oracle Database technologies, development and maintenance of Api in Spring Boot and JSP. Wordpress, Node, Laravel and GitHub (and other things), and musician in his spare time.
 
-
 Skills: JAVA JSP / SPRING BOOT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Spring boot and Oracle Db 
@@ -16,4 +15,4 @@ Skills: JAVA JSP / SPRING BOOT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KleberMeira&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/KleberMeira)  
+![Profile views](https://gpvc.arturio.dev/KleberMeira)   
