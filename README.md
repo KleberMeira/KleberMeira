@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-Currently I work as a Java Junior developer at IntegraTI, where I deal with Oracle Database technologies, development and maintenance of Api in Spring Boot and JSP. Wordpress, Node, Laravel and GitHub (and other things), and musician in his spare time.
+Musician in his spare time and cyclist on the weekends. I am a student in Software Engineering at UFMS and currently work as a Java Junior developer at IntegraTI, where I deal with Oracle database technologies, development and maintenance of Api in Spring Boot and JSP.
 
 Skills: JAVA JSP / SPRING BOOT / JS / HTML / CSS
 
