@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-Musician in his spare time and cyclist on the weekends. I am a student in Software Engineering at UFMS and currently work as a Java Pleno developer at IntegraTI, where I deal with Oracle database technologies, development and maintenance of Api in Spring Boot and NodeJs.
+Musician in his spare time and cyclist on weekends. Currently I'm focused on the backend with integrations and microservices using NodeJs. I had the opportunity to participate in the refactoring of a data integration system with high availability for sending sales. At that moment I was able to deal with BI with data load construction using Sense and Elastic Search tools. The technologies that I used were Java, Python, JavaScript along with Oracle database, PostgresSql, Redis, MongoDb. In parallel improving English to a more advanced level and looking to collaborate on npm libraries and studying Clojure.
 
 Skills: JAVA JSP / SPRING BOOT / JS / NODEJS / 
 
